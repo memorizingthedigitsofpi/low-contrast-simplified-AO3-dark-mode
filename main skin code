@@ -521,6 +521,7 @@ dl.meta {
   display: none;
 }
 
+#dashboard,
 #dashboard.own {
   background: var(--secondary-bg-colour);
   border-top: 15px solid var(--accent-bg-colour);
