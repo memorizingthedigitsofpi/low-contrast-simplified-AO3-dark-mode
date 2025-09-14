@@ -6,6 +6,7 @@ At the top of this skin, you'll see a section of code called :root - in this par
 If you like this skin but wish it used different colours, just modify those hex codes, and the skin will do the rest.
 
 Many thanks to ZerafinaCSS for the header code, which I modified from their neos skin. It's amazing work!
+Thanks also go out to laurelnose who showed me how to customize the radio buttons in the filters menu when I was failing completely. 💖
 
 # how to create a site skin
 
