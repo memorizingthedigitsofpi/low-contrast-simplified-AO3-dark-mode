@@ -228,6 +228,12 @@ input#site_search.text {
   background-repeat: no-repeat;
 }
 
+.search [role="tooltip"] {
+  background: var(--accent-bg-colour);
+  border: var(--accent-bg-colour);
+color: var(--secondary-txt-colour);
+}
+
 #outer {
   background: var(--primary-bg-colour);
 }
