@@ -921,3 +921,8 @@ dl.index dd,
 .wrapper {
   box-shadow: none;
 }
+
+p.kudos {
+  background: url("/images/imageset.png") no-repeat -111px -581px;
+  filter: var(--filter-to-dusty-rose);
+}
